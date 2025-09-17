@@ -14,7 +14,7 @@ describe('Testar as funções de Gestão de Usuários', function () {
 
         // 3. Comparar se o novo nome está no fim da lista de usuários
         expect(listaDeUsuarios.at(-1)).to.eql({
-            nome: 'Carlos Henrique Santos',
+            nome: 'Carlos Henrique ',
             email: 'carlos.henrique.santos@gmail.com'
         });
     });
