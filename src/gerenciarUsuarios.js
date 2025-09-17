@@ -12,7 +12,7 @@ const usuarios = [
         email: 'igor.batista@gmail.com'
     },
     {
-        nome: 'William Guerra',
+        nome: 'William ',
         email: 'williamg@gail.com'
     },
     {
