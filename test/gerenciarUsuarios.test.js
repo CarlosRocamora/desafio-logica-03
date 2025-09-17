@@ -5,7 +5,7 @@ describe('Testar as funções de Gestão de Usuários', function () {
     it('Validar que posso adicionar um novo nome de usuário na lista', function () {
         // 1. Adicionar um novo nome na lista de usuários
         adicionarNovoUsuario({
-            nome: 'Carlos Henrique Santos',
+            nome: 'Carlos Henrique ',
             email: 'carlos.henrique.santos@gmail.com'
         });
 
